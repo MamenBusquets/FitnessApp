@@ -28,6 +28,19 @@ El projecte implementa dues pantalles principals:
 
 ## 📸 Captures de pantalla
 
-| ProfileScreen | EditProfileScreen | ProfileScreenChanges |
-| :---: | :---: |
-| ![ProfileScreen](screenshots/ProfileScreen.png) | ![EditProfileScreen](screenshots/EditProfileScreen.png) |![ProfileScreenChanges](screenshots/ProfileScreenChanges.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/ProfileScreen.png" width="220" /><br>
+      <sub><b>Pantalla de Perfil</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/EditProfileScreen.png" width="220" /><br>
+      <sub><b>Editar Perfil</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/ProfileScreenChanges.png" width="220" /><br>
+      <sub><b>Canvis al perfil</b></sub>
+    </td>
+  </tr>
+</table>
